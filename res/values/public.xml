@@ -14880,6 +14880,7 @@
     <public type="layout" name="zoom_ratio_toggle_view" id="0x7f0e02a4" />
     <public type="layout" name="zoom_ring_item_view" id="0x7f0e02a5" />
     <public type="layout" name="zoom_top_tip_layout" id="0x7f0e02a6" />
+    <public type="mipmap" name="launcher_ic_fg_cv" id="0x7f0f0004" />
     <public type="menu" name="draft_popup_menu" id="0x7f100000" />
     <public type="menu" name="exit_popup_menu" id="0x7f100001" />
     <public type="mipmap" name="ic_launcher_camera_cv" id="0x7f110000" />
